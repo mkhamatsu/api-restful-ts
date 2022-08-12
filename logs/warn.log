@@ -1,0 +1,6 @@
+2022-08-11 10:21:52:2152 - [31merror[39m: [31mNão foi possível conectar ao banco de dados![39m
+2022-08-11 10:21:52:2152 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hogmg4z.ongodb.net[39m
+2022-08-11 10:23:00:230 - [31merror[39m: [31mNão foi possível conectar ao banco de dados![39m
+2022-08-12 08:02:53:253 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "10" (type string) at path "_id" for model "Movie"[39m
+2022-08-12 08:29:27:2927 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62f5570a626314fee30377d" (type string) at path "_id" for model "Movie"[39m
+2022-08-12 08:30:28:3028 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62f5570a626314fee30377d" (type string) at path "_id" for model "Movie"[39m
